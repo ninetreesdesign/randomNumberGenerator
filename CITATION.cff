@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use ds_random in academic or published work, cite it as below."
+type: software
+title: "ds_random: portable 16-bit pseudo-random numbers for Arduino"
+abstract: "A small Arduino library providing uniform 16- and 32-bit pseudo-random samples, a checked signed range, and a Gaussian approximation, from a 32-bit xorshift generator with a period of 2^32-1."
+authors:
+  - family-names: "Smith"
+    given-names: "David"
+repository-code: "https://github.com/ninetreesdesign/randomNumberGenerator"
+url: "https://github.com/ninetreesdesign/randomNumberGenerator"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-13"
+keywords:
+  - "Arduino"
+  - "random number generator"
+  - "PRNG"
+  - "xorshift"
+  - "Gaussian noise"
+  - "AVR"
+  - "Teensy"
+  - "ESP32"
+  - "embedded"

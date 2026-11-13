@@ -1,0 +1,9 @@
+#######################################
+# Syntax Coloring Map For ds_random
+#######################################
+
+rnd	KEYWORD2
+rnd32	KEYWORD2
+rndBetween	KEYWORD2
+rndSeed	KEYWORD2
+rndGaussian	KEYWORD2
